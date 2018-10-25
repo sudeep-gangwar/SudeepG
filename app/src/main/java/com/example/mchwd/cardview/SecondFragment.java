@@ -17,6 +17,8 @@ import android.widget.Toast;
  */
 public class SecondFragment extends Fragment {
 
+    /*
+    * this is */
     public SecondFragment() {
         // Required empty public constructor
     }
