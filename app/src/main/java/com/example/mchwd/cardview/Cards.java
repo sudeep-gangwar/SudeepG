@@ -22,6 +22,8 @@ public class Cards extends Fragment {
 
     public Cards() {
         // Required empty public constructor
+        // Required empty public constructor
+        // Required empty public constructor
     }
 
 
